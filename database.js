@@ -139,7 +139,8 @@ const db = [
     { un: "2448", nameTW: "硫磺 (熔融態)", nameEN: "Sulfur, molten", cas: "7704-34-9", class: "4.1", nfpa: { h: "2", f: "1", r: "0", s: "" }, ghs: ["⚠️"], erg: "133", isolation: "25m", tactics: "生二氧化硫毒煙。水霧滅火。", ppe: "消防衣+SCBA" },
     { un: "2211", nameTW: "聚苯乙烯珠 (保麗龍原料)", nameEN: "Polymeric beads", cas: "N/A", class: "9", nfpa: { h: "1", f: "2", r: "0", s: "" }, ghs: ["⚠️"], erg: "133", isolation: "25m", tactics: "釋放戊烷。注意通風。", ppe: "消防衣+SCBA" },
     { un: "3082", nameTW: "危害環境液體 (廢水類)", nameEN: "Env. hazardous liq.", cas: "N/A", class: "9", nfpa: { h: "1", f: "1", r: "0", s: "" }, ghs: ["🐟"], erg: "171", isolation: "25m", tactics: "攔阻收集防流入水體。", ppe: "消防衣+SCBA" },
-// --- 126 - 150: 製程溶劑、聚合單體、極端毒物與農用化學品 ---
+
+    // --- 126 - 150: 製程溶劑、聚合單體、極端毒物與農用化學品 ---
     { un: "1648", nameTW: "乙腈 (ACN / 甲基氰 / 乙晴)", nameEN: "Acetonitrile", cas: "75-05-8", class: "3", nfpa: { h: "2", f: "3", r: "0", s: "" }, ghs: ["🔥,⚠️"], erg: "127", isolation: "50m", tactics: "極易燃。燃燒可能釋放氰化物毒氣。使用抗溶性泡沫。", ppe: "消防衣+SCBA" },
     { un: "1245", nameTW: "甲基異丁基酮 (MIBK)", nameEN: "Methyl isobutyl ketone", cas: "108-10-1", class: "3", nfpa: { h: "2", f: "3", r: "0", s: "" }, ghs: ["🔥,⚠️"], erg: "127", isolation: "50m", tactics: "極易燃溶劑，蒸氣比空氣重。使用抗溶性泡沫。", ppe: "消防衣+SCBA" },
     { un: "1593", nameTW: "二氯甲烷 (DCM / 氯甲烷 / 退漆劑)", nameEN: "Dichloromethane", cas: "75-09-2", class: "6.1", nfpa: { h: "2", f: "1", r: "0", s: "" }, ghs: ["⚠️,👤"], erg: "160", isolation: "50m", tactics: "不燃但具麻醉性與致癌風險。火場高溫下分解產生光氣。", ppe: "消防衣+SCBA" },
