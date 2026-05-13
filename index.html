@@ -415,10 +415,10 @@
 
             // 🌟 3. 真實圖片資料庫讀取 (直接指向您 GitHub 的 img 資料夾)
             const cStr = String(item.class);
-            // 這裡會去抓例如 img/class_2.1.png
-            const imgSrc = `img/class_${cStr}.png`; 
-            // 防呆機制：如果找不到細項(例如2.1)，會自動退一步去抓主類別(例如 img/class_2.png)
-            const fallbackSrc = `img/class_${cStr.charAt(0)}.png`;
+            // 這裡會去抓例如 img/class_2.1.svg
+            const imgSrc = `img/class_${cStr}.svg`; 
+            // 防呆機制：如果找不到細項(例如2.1)，會自動退一步去抓主類別(例如 img/class_2.svg)
+            const fallbackSrc = `img/class_${cStr.charAt(0)}.svg`;
             const imgHtml = `<img src="${imgSrc}" onerror="this.onerror=null; this.src='${fallbackSrc}';" style="width:70px; height:70px; filter: drop-shadow(2px 2px 5px rgba(0,0,0,0.7));" alt="Class ${cStr}">`;
 
             // 🌟 4. 建立左右並排的視覺儀表板
