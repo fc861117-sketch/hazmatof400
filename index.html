@@ -4,6 +4,12 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <title>HCFD // 危害辨識系統 (ISO)</title>
+    <script>
+        MathJax = {
+            tex: { inlineMath: [['$', '$'], ['\\(', '\\)']] }
+        };
+    </script>
+    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
     <style>
         :root {
             --bg-color: #121212;
@@ -609,12 +615,19 @@ function showDetail(item) {
             if(document.getElementById('d-iso')) document.getElementById('d-iso').innerText = item.isolation;
             if(document.getElementById('d-tactics')) document.getElementById('d-tactics').innerText = item.tactics;
             if(document.getElementById('d-ppe')) document.getElementById('d-ppe').innerText = item.ppe;
-             // 🌟 新增：判斷並顯示化學反應式
+            // 🌟 新增：判斷並顯示化學反應式 (支援 LaTeX)
             const rowReaction = document.getElementById('row-reaction');
             const dReaction = document.getElementById('d-reaction');
             if (item.reaction) {
                 rowReaction.style.display = 'block'; // 有資料就顯示
-                dReaction.innerHTML = item.reaction; // 寫入化學式
+                dReaction.innerHTML = item.reaction; // 寫入 LaTeX 原始碼
+                
+                // 🌟 關鍵新增：呼叫 MathJax 重新渲染這個區塊
+                if (window.MathJax) {
+                    MathJax.typesetPromise([dReaction]).catch(function (err) {
+                        console.error('MathJax 渲染失敗: ', err.message);
+                    });
+                }
             } else {
                 rowReaction.style.display = 'none';  // 沒資料就隱藏
             }
