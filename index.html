@@ -685,23 +685,24 @@ function showDetail(item) {
                 const googleSds = `https://www.google.com/search?q=site:ilo.org+ICSC+${cleanCas}`;
                 sdsBox.innerHTML += `<a href="${googleSds}" target="_blank" class="sds-link-btn" style="background:#1565c0;">ICSC 檢索(英文)</a>`;
 
-                // 3. 台灣繁體中文 SDS (優化 Google 搜尋關鍵字，避免跳轉首頁)
-                // 使用 encodeURIComponent 確保 CAS 號碼中的連字號 - 不會導致網址斷掉
-                const twQuery = encodeURIComponent(`"${cleanCas}" "安全資料表" filetype:pdf site:tw`);
+                // 4. 台灣繁體中文 SDS (優化搜尋精準度)
+                // 嘗試抓取物質的中文名稱（假設你的資料庫欄位叫做 nameTW，若不同請自行更改）
+                const chemName = item.nameTW || item.name || ''; 
+
+                // 組合更強大的搜尋條件：強迫包含 CAS、中文名稱(若有)，並鎖定 "安全資料表" 這個精確字眼
+                const twSdsKeyword = `"${cleanCas}" ${chemName ? `"${chemName}"` : ''} "安全資料表" site:tw`;
+
+                // 轉換為安全的 URL 格式
+                const twQuery = encodeURIComponent(twSdsKeyword);
                 const twSdsUrl = `https://www.google.com/search?q=${twQuery}`;
+
                 sdsBox.innerHTML += `<a href="${twSdsUrl}" target="_blank" class="sds-link-btn" style="background:#d84315; border-color:#fbe9e7;">🇹🇼 台灣 SDS</a>`;
 
                 // 4. Merck 默克台灣 (加入 term 參數強制觸發搜尋)
                 // 加上 &term= 可以跳過手動輸入，直接讓網站執行搜尋
                 const merckUrl = `https://www.sigmaaldrich.com/TW/zh/search/${cleanCas}?focus=products&term=${cleanCas}&type=product`;
                 sdsBox.innerHTML += `<a href="${merckUrl}" target="_blank" class="sds-link-btn" style="background:#00838f;">Merck 台灣</a>`;
-
-                // 5. 台北榮總毒物中心 (臨床急救參考 - 使用新網域 pcc-vghtpe.tw)
-                // 使用 encodeURIComponent 處理 CAS，並鎖定新版毒物中心網域
-                const vghQuery = encodeURIComponent(`site:pcc-vghtpe.tw "${cleanCas}"`);
-                const vghUrl = `https://www.google.com/search?q=${vghQuery}`;
-                sdsBox.innerHTML += `<a href="${vghUrl}" target="_blank" class="sds-link-btn" style="background:#2e7d32;">北榮毒物中心</a>`;
-           
+         
             } else {
                 sdsBox.innerHTML = '<span style="color:#666; font-size:0.9rem;">此物質無 CAS 資訊，無法提供外部連結。</span>';
             }
