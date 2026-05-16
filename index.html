@@ -703,6 +703,15 @@ function showDetail(item) {
                 // 加上 &term= 可以跳過手動輸入，直接讓網站執行搜尋
                 const merckUrl = `https://www.sigmaaldrich.com/TW/zh/search/${cleanCas}?focus=products&term=${cleanCas}&type=product`;
                 sdsBox.innerHTML += `<a href="${merckUrl}" target="_blank" class="sds-link-btn" style="background:#00838f;">Merck 台灣</a>`;
+
+                // 5. 環境部化學署 (毒性及關注化學物質)
+                // 使用 site: 語法直接鎖定化學署網域，穿透表單限制尋找專屬頁面
+                // 這樣做還有個極大的好處：如果搜不到結果，代表該物質在台灣「未被列管為毒化物」，這本身就是極重要的現場情資！
+                const chaKeyword = `"${cleanCas}" site:cha.gov.tw`;
+                const chaQuery = encodeURIComponent(chaKeyword);
+                const chaUrl = `https://www.google.com/search?q=${chaQuery}`;
+
+                sdsBox.innerHTML += `<a href="${chaUrl}" target="_blank" class="sds-link-btn" style="background:#558b2f; border-color:#dcedc8;">🇹🇼 化學署毒化物查詢</a>`;
          
             } else {
                 sdsBox.innerHTML = '<span style="color:#666; font-size:0.9rem;">此物質無 CAS 資訊，無法提供外部連結。</span>';
