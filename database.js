@@ -203,7 +203,8 @@ const db = [
     "tih": false,
     "rgs": [
       2,
-      12
+      12,
+      16
     ]
   },
   {
@@ -386,7 +387,8 @@ const db = [
     "isTCS": false,
     "tih": false,
     "rgs": [
-      12
+      12,
+      16
     ]
   },
   {
@@ -2823,7 +2825,8 @@ const db = [
     "tih": false,
     "rgs": [
       11,
-      12
+      12,
+      16
     ]
   },
   {
@@ -2899,7 +2902,8 @@ const db = [
     "isTCS": false,
     "tih": false,
     "rgs": [
-      12
+      12,
+      16
     ]
   },
   {
@@ -3049,7 +3053,8 @@ const db = [
     "isTCS": false,
     "tih": false,
     "rgs": [
-      12
+      12,
+      16
     ]
   },
   {
@@ -3250,7 +3255,7 @@ const db = [
     "tih": false,
     "rgs": [
       2,
-      13
+      16
     ]
   },
   {
@@ -3276,7 +3281,7 @@ const db = [
     "tih": false,
     "rgs": [
       2,
-      13
+      16
     ]
   },
   {
@@ -3303,7 +3308,7 @@ const db = [
     "rgs": [
       2,
       12,
-      13
+      16
     ]
   },
   {
@@ -3329,7 +3334,7 @@ const db = [
     "tih": false,
     "rgs": [
       2,
-      13
+      16
     ]
   },
   {
@@ -3355,7 +3360,7 @@ const db = [
     "tih": false,
     "rgs": [
       12,
-      13
+      16
     ]
   },
   {
@@ -3380,7 +3385,7 @@ const db = [
     "isTCS": false,
     "tih": false,
     "rgs": [
-      13
+      16
     ]
   },
   {
@@ -3457,7 +3462,7 @@ const db = [
     "isTCS": false,
     "tih": false,
     "rgs": [
-      13
+      16
     ]
   },
   {
@@ -3483,7 +3488,7 @@ const db = [
     "tih": false,
     "rgs": [
       12,
-      13
+      16
     ]
   },
   {
@@ -3772,7 +3777,8 @@ const db = [
     "tih": false,
     "rgs": [
       5,
-      12
+      12,
+      16
     ]
   },
   {
@@ -3799,7 +3805,8 @@ const db = [
     "rgs": [
       8,
       9,
-      12
+      12,
+      16
     ]
   },
   {
@@ -3825,7 +3832,8 @@ const db = [
     "tih": false,
     "rgs": [
       5,
-      12
+      12,
+      16
     ]
   },
   {
@@ -4002,7 +4010,8 @@ const db = [
     "isTCS": false,
     "tih": false,
     "rgs": [
-      12
+      12,
+      16
     ]
   },
   {
@@ -4029,7 +4038,8 @@ const db = [
     "tih": false,
     "rgs": [
       11,
-      12
+      12,
+      16
     ]
   },
   {
@@ -4333,7 +4343,8 @@ const db = [
     "tih": true,
     "rgs": [
       11,
-      12
+      12,
+      16
     ]
   },
   {
@@ -4435,7 +4446,8 @@ const db = [
     "tih": false,
     "rgs": [
       11,
-      12
+      12,
+      16
     ]
   },
   {
@@ -5190,7 +5202,7 @@ const db = [
     "isTCS": false,
     "tih": false,
     "rgs": [
-      13
+      17
     ]
   },
   {
@@ -5215,7 +5227,7 @@ const db = [
     "isTCS": false,
     "tih": false,
     "rgs": [
-      13
+      17
     ]
   },
   {
@@ -6102,7 +6114,8 @@ const db = [
     "tih": false,
     "rgs": [
       5,
-      12
+      12,
+      16
     ]
   },
   {
@@ -7558,8 +7571,7 @@ const db = [
     "isTCS": false,
     "tih": false,
     "rgs": [
-      2,
-      13
+      2
     ]
   },
   {
@@ -7585,7 +7597,7 @@ const db = [
     "tih": false,
     "rgs": [
       2,
-      13
+      16
     ]
   },
   {
@@ -7612,7 +7624,7 @@ const db = [
     "rgs": [
       2,
       12,
-      13
+      16
     ]
   },
   {
@@ -7637,8 +7649,7 @@ const db = [
     "isTCS": false,
     "tih": false,
     "rgs": [
-      2,
-      13
+      2
     ]
   },
   {
@@ -7663,7 +7674,7 @@ const db = [
     "isTCS": false,
     "tih": false,
     "rgs": [
-      13
+      17
     ]
   },
   {
@@ -7740,7 +7751,7 @@ const db = [
     "isTCS": false,
     "tih": false,
     "rgs": [
-      13
+      17
     ]
   },
   {
@@ -8041,7 +8052,8 @@ const db = [
     "reaction": "$\\mathrm{Ba} + 2\\mathrm{H_2O} \\rightarrow \\mathrm{Ba(OH)_2} + \\mathrm{H_2} \\uparrow$",
     "tih": false,
     "rgs": [
-      12
+      12,
+      16
     ]
   },
   {
@@ -8491,8 +8503,7 @@ const db = [
     "isTCS": false,
     "tih": false,
     "rgs": [
-      1,
-      13
+      1
     ]
   },
   {
@@ -8567,8 +8578,7 @@ const db = [
     "isTCS": false,
     "tih": false,
     "rgs": [
-      1,
-      13
+      1
     ]
   },
   {
@@ -8845,7 +8855,8 @@ const db = [
     "tih": false,
     "rgs": [
       5,
-      12
+      12,
+      16
     ]
   },
   {
@@ -8871,7 +8882,8 @@ const db = [
     "tih": false,
     "rgs": [
       5,
-      12
+      12,
+      16
     ]
   },
   {
@@ -8897,7 +8909,8 @@ const db = [
     "tih": false,
     "rgs": [
       5,
-      12
+      12,
+      16
     ]
   },
   {
@@ -8923,7 +8936,8 @@ const db = [
     "tih": false,
     "rgs": [
       5,
-      12
+      12,
+      16
     ]
   },
   {
@@ -9027,7 +9041,8 @@ const db = [
     "tih": true,
     "rgs": [
       5,
-      12
+      12,
+      16
     ]
   },
   {
@@ -9078,7 +9093,8 @@ const db = [
     "tih": false,
     "rgs": [
       5,
-      12
+      12,
+      16
     ]
   },
   {
@@ -9683,7 +9699,7 @@ const db = [
     "isTCS": false,
     "tih": false,
     "rgs": [
-      13
+      17
     ]
   },
   {
@@ -9709,7 +9725,6 @@ const db = [
     "tih": false,
     "rgs": [
       1,
-      13,
       15
     ]
   },
@@ -9735,7 +9750,7 @@ const db = [
     "isTCS": false,
     "tih": false,
     "rgs": [
-      13
+      17
     ]
   },
   {
@@ -9761,7 +9776,6 @@ const db = [
     "tih": false,
     "rgs": [
       1,
-      13,
       15
     ]
   },
@@ -9939,7 +9953,8 @@ const db = [
     "reaction": "$\\mathrm{BCl_3} + 3\\mathrm{H_2O} \\rightarrow \\mathrm{H_3BO_3} + 3\\mathrm{HCl} \\uparrow$",
     "tih": true,
     "rgs": [
-      12
+      12,
+      16
     ]
   },
   {
@@ -9965,7 +9980,8 @@ const db = [
     "reaction": "$4\\mathrm{BF_3} + 3\\mathrm{H_2O} \\rightarrow 3\\mathrm{HBF_4} + \\mathrm{H_3BO_3}$",
     "tih": true,
     "rgs": [
-      12
+      12,
+      16
     ]
   },
   {
@@ -10016,7 +10032,8 @@ const db = [
     "reaction": "$4\\mathrm{BF_3} + 3\\mathrm{H_2O} \\rightarrow 3\\mathrm{HBF_4} + \\mathrm{H_3BO_3}$",
     "tih": true,
     "rgs": [
-      12
+      12,
+      16
     ]
   },
   {
@@ -11068,7 +11085,8 @@ const db = [
     "isTCS": false,
     "tih": false,
     "rgs": [
-      12
+      12,
+      16
     ]
   },
   {
@@ -11870,7 +11888,8 @@ const db = [
     "tih": false,
     "rgs": [
       5,
-      12
+      12,
+      16
     ]
   },
   {
@@ -12274,7 +12293,8 @@ const db = [
     "reaction": "$\\mathrm{Ca} + 2\\mathrm{H_2O} \\rightarrow \\mathrm{Ca(OH)_2} + \\mathrm{H_2} \\uparrow$",
     "tih": false,
     "rgs": [
-      12
+      12,
+      16
     ]
   },
   {
@@ -12425,7 +12445,8 @@ const db = [
     "reaction": "$\\mathrm{CaC_2} + 2\\mathrm{H_2O} \\rightarrow \\mathrm{Ca(OH)_2} + \\mathrm{C_2H_2} \\uparrow$",
     "tih": false,
     "rgs": [
-      12
+      12,
+      16
     ]
   },
   {
@@ -12578,7 +12599,6 @@ const db = [
     "tih": false,
     "rgs": [
       12,
-      13,
       15
     ]
   },
@@ -12630,7 +12650,6 @@ const db = [
     "tih": false,
     "rgs": [
       12,
-      13,
       15
     ]
   },
@@ -12657,7 +12676,6 @@ const db = [
     "tih": false,
     "rgs": [
       12,
-      13,
       15
     ]
   },
@@ -13084,7 +13102,8 @@ const db = [
     "reaction": "$\\mathrm{Ca_3P_2} + 6\\mathrm{H_2O} \\rightarrow 3\\mathrm{Ca(OH)_2} + 2\\mathrm{PH_3} \\uparrow$",
     "tih": true,
     "rgs": [
-      12
+      12,
+      16
     ]
   },
   {
@@ -14026,7 +14045,8 @@ const db = [
     "reaction": "$\\mathrm{COF_2} + \\mathrm{H_2O} \\rightarrow \\mathrm{CO_2} \\uparrow + 2\\mathrm{HF} \\uparrow$",
     "tih": true,
     "rgs": [
-      12
+      12,
+      16
     ]
   },
   {
@@ -14052,7 +14072,8 @@ const db = [
     "reaction": "$\\mathrm{COF_2} + \\mathrm{H_2O} \\rightarrow \\mathrm{CO_2} \\uparrow + 2\\mathrm{HF} \\uparrow$",
     "tih": true,
     "rgs": [
-      12
+      12,
+      16
     ]
   },
   {
@@ -15005,9 +15026,7 @@ const db = [
     "ppe": "A級氣密衣",
     "isTCS": true,
     "tih": true,
-    "rgs": [
-      16
-    ]
+    "rgs": [13, 17]
   },
   {
     "un": "3520",
@@ -15107,7 +15126,8 @@ const db = [
     "reaction": "$\\mathrm{ClF_3} + 2\\mathrm{H_2O} \\rightarrow 3\\mathrm{HF} \\uparrow + \\mathrm{HCl} \\uparrow + \\mathrm{O_2} \\uparrow$",
     "tih": true,
     "rgs": [
-      12
+      12,
+      16
     ]
   },
   {
@@ -16053,7 +16073,8 @@ const db = [
       5,
       8,
       9,
-      12
+      12,
+      16
     ]
   },
   {
@@ -16081,7 +16102,8 @@ const db = [
       5,
       8,
       9,
-      12
+      12,
+      16
     ]
   },
   {
@@ -16753,7 +16775,8 @@ const db = [
     "tih": false,
     "rgs": [
       5,
-      12
+      12,
+      16
     ]
   },
   {
@@ -16779,7 +16802,8 @@ const db = [
     "tih": false,
     "rgs": [
       5,
-      12
+      12,
+      16
     ]
   },
   {
@@ -16805,7 +16829,8 @@ const db = [
     "tih": false,
     "rgs": [
       5,
-      12
+      12,
+      16
     ]
   },
   {
@@ -16831,7 +16856,8 @@ const db = [
     "tih": false,
     "rgs": [
       5,
-      12
+      12,
+      16
     ]
   },
   {
@@ -16857,7 +16883,8 @@ const db = [
     "tih": false,
     "rgs": [
       5,
-      12
+      12,
+      16
     ]
   },
   {
@@ -16883,7 +16910,8 @@ const db = [
     "tih": false,
     "rgs": [
       5,
-      12
+      12,
+      16
     ]
   },
   {
@@ -16909,7 +16937,8 @@ const db = [
     "tih": false,
     "rgs": [
       5,
-      12
+      12,
+      16
     ]
   },
   {
@@ -16935,7 +16964,8 @@ const db = [
     "tih": false,
     "rgs": [
       5,
-      12
+      12,
+      16
     ]
   },
   {
@@ -17430,7 +17460,7 @@ const db = [
     "isTCS": false,
     "tih": false,
     "rgs": [
-      13
+      17
     ]
   },
   {
@@ -17455,7 +17485,7 @@ const db = [
     "isTCS": false,
     "tih": false,
     "rgs": [
-      13
+      17
     ]
   },
   {
@@ -21262,7 +21292,8 @@ const db = [
     "tih": false,
     "rgs": [
       5,
-      12
+      12,
+      16
     ]
   },
   {
@@ -21392,7 +21423,8 @@ const db = [
     "tih": false,
     "rgs": [
       5,
-      12
+      12,
+      16
     ]
   },
   {
@@ -21997,7 +22029,8 @@ const db = [
     "tih": false,
     "rgs": [
       4,
-      12
+      12,
+      16
     ]
   },
   {
@@ -22099,7 +22132,8 @@ const db = [
     "tih": false,
     "rgs": [
       5,
-      12
+      12,
+      16
     ]
   },
   {
@@ -22125,7 +22159,8 @@ const db = [
     "reaction": "$\\mathrm{B_2H_6} + 6\\mathrm{H_2O} \\rightarrow 2\\mathrm{H_3BO_3} + 6\\mathrm{H_2} \\uparrow$",
     "tih": true,
     "rgs": [
-      12
+      12,
+      16
     ]
   },
   {
@@ -22151,7 +22186,8 @@ const db = [
     "reaction": "$\\mathrm{B_2H_6} + 6\\mathrm{H_2O} \\rightarrow 2\\mathrm{H_3BO_3} + 6\\mathrm{H_2} \\uparrow$",
     "tih": true,
     "rgs": [
-      12
+      12,
+      16
     ]
   },
   {
@@ -22177,7 +22213,8 @@ const db = [
     "reaction": "$\\mathrm{B_2H_6} + 6\\mathrm{H_2O} \\rightarrow 2\\mathrm{H_3BO_3} + 6\\mathrm{H_2} \\uparrow$",
     "tih": true,
     "rgs": [
-      12
+      12,
+      16
     ]
   },
   {
@@ -22649,7 +22686,8 @@ const db = [
     "rgs": [
       5,
       6,
-      12
+      12,
+      16
     ]
   },
   {
@@ -22937,7 +22975,8 @@ const db = [
       5,
       8,
       9,
-      12
+      12,
+      16
     ]
   },
   {
@@ -22963,7 +23002,8 @@ const db = [
     "tih": false,
     "rgs": [
       5,
-      12
+      12,
+      16
     ]
   },
   {
@@ -23068,7 +23108,8 @@ const db = [
     "tih": true,
     "rgs": [
       5,
-      12
+      12,
+      16
     ]
   },
   {
@@ -23527,7 +23568,8 @@ const db = [
     "tih": false,
     "rgs": [
       5,
-      12
+      12,
+      16
     ]
   },
   {
@@ -23655,8 +23697,7 @@ const db = [
     "isTCS": false,
     "tih": false,
     "rgs": [
-      8,
-      13
+      8
     ]
   },
   {
@@ -23707,8 +23748,7 @@ const db = [
     "isTCS": false,
     "tih": false,
     "rgs": [
-      8,
-      13
+      8
     ]
   },
   {
@@ -24609,7 +24649,8 @@ const db = [
     "tih": false,
     "rgs": [
       5,
-      12
+      12,
+      16
     ]
   },
   {
@@ -24890,8 +24931,7 @@ const db = [
     "tih": false,
     "rgs": [
       8,
-      12,
-      13
+      12
     ]
   },
   {
@@ -24943,8 +24983,7 @@ const db = [
     "tih": false,
     "rgs": [
       8,
-      12,
-      13
+      12
     ]
   },
   {
@@ -25526,7 +25565,8 @@ const db = [
     "tih": false,
     "rgs": [
       5,
-      12
+      12,
+      16
     ]
   },
   {
@@ -25931,7 +25971,8 @@ const db = [
     "tih": false,
     "rgs": [
       5,
-      12
+      12,
+      16
     ]
   },
   {
@@ -26710,7 +26751,8 @@ const db = [
     "rgs": [
       5,
       6,
-      12
+      12,
+      16
     ]
   },
   {
@@ -27717,7 +27759,8 @@ const db = [
       2,
       5,
       8,
-      12
+      12,
+      16
     ]
   },
   {
@@ -27848,33 +27891,33 @@ const db = [
     "tih": false,
     "rgs": [
       5,
-      12
+      12,
+      16
     ]
   },
   {
     "un": "1962",
-    "nameTW": "二氟化二氯矽烷 (Etching gas)",
-    "nameEN": "Ethylene",
+    "nameTW": "乙烯 (Ethylene)",
+    "nameEN": "Ethylene, compressed",
     "cas": "74-85-1",
-    "class": "2.3",
+    "class": "2.1",
     "nfpa": {
-      "h": "3",
-      "f": "0",
-      "r": "1",
-      "s": "<s>W</s>"
+      "h": "1",
+      "f": "4",
+      "r": "2",
+      "s": ""
     },
     "ghs": [
-      "☠️,🧪"
+      "🔥,💨"
     ],
     "erg": "116P",
     "isolation": "100m",
-    "tactics": "【TIH】遇水劇烈分解生氯化氫與氟化氫雙重毒煙。",
-    "ppe": "A級氣密衣",
+    "tactics": "極度易燃氣體，受熱可能發生劇烈聚合爆炸。消防水流冷卻鋼瓶，切斷氣源為首要。",
+    "ppe": "全套消防衣",
     "isTCS": false,
-    "reaction": "$\\mathrm{SiCl_2F_2} + 2\\mathrm{H_2O} \\rightarrow \\mathrm{SiO_2} + 2\\mathrm{HCl} \\uparrow + 2\\mathrm{HF} \\uparrow$",
-    "tih": true,
+    "tih": false,
     "rgs": [
-      12
+      16
     ]
   },
   {
@@ -27925,7 +27968,8 @@ const db = [
     "reaction": "$\\mathrm{SiCl_2F_2} + 2\\mathrm{H_2O} \\rightarrow \\mathrm{SiO_2} + 2\\mathrm{HCl} \\uparrow + 2\\mathrm{HF} \\uparrow$",
     "tih": true,
     "rgs": [
-      12
+      12,
+      16
     ]
   },
   {
@@ -28263,7 +28307,8 @@ const db = [
     "reaction": "$n \\mathrm{C_2H_4O} \\xrightarrow{\\Delta} \\text{Polyether} + \\mathrm{Heat}$",
     "tih": true,
     "rgs": [
-      12
+      12,
+      16
     ]
   },
   {
@@ -28493,7 +28538,8 @@ const db = [
     "reaction": "$n \\mathrm{C_2H_4O} \\xrightarrow{\\Delta} \\text{Polyether} + \\mathrm{Heat}$",
     "tih": true,
     "rgs": [
-      12
+      12,
+      16
     ]
   },
   {
@@ -28939,7 +28985,8 @@ const db = [
     "tih": false,
     "rgs": [
       5,
-      12
+      12,
+      16
     ]
   },
   {
@@ -29117,7 +29164,8 @@ const db = [
     "isTCS": false,
     "tih": false,
     "rgs": [
-      12
+      12,
+      16
     ]
   },
   {
@@ -29169,7 +29217,8 @@ const db = [
     "tih": false,
     "rgs": [
       5,
-      12
+      12,
+      16
     ]
   },
   {
@@ -29471,7 +29520,8 @@ const db = [
     "reaction": "$\\mathrm{Si(Fe)} + 2\\mathrm{H_2O} \\rightarrow \\mathrm{SiO_2} + 2\\mathrm{H_2} \\uparrow + \\text{Trace } \\mathrm{PH_3/AsH_3} \\uparrow$",
     "tih": false,
     "rgs": [
-      12
+      12,
+      16
     ]
   },
   {
@@ -30096,7 +30146,8 @@ const db = [
     "isTCS": false,
     "tih": false,
     "rgs": [
-      12
+      12,
+      16
     ]
   },
   {
@@ -30146,7 +30197,8 @@ const db = [
     "isTCS": false,
     "tih": false,
     "rgs": [
-      12
+      12,
+      16
     ]
   },
   {
@@ -30447,7 +30499,8 @@ const db = [
     "reaction": "$2\\mathrm{F_2} + 2\\mathrm{H_2O} \\rightarrow 4\\mathrm{HF} \\uparrow + \\mathrm{O_2} \\uparrow$",
     "tih": true,
     "rgs": [
-      12
+      12,
+      16
     ]
   },
   {
@@ -30473,7 +30526,8 @@ const db = [
     "reaction": "$2\\mathrm{F_2} + 2\\mathrm{H_2O} \\rightarrow 4\\mathrm{HF} \\uparrow + \\mathrm{O_2} \\uparrow$",
     "tih": true,
     "rgs": [
-      12
+      12,
+      16
     ]
   },
   {
@@ -32673,7 +32727,8 @@ const db = [
     "tih": false,
     "rgs": [
       5,
-      12
+      12,
+      16
     ]
   },
   {
@@ -33236,7 +33291,8 @@ const db = [
     "tih": false,
     "rgs": [
       5,
-      12
+      12,
+      16
     ]
   },
   {
@@ -33417,7 +33473,8 @@ const db = [
     "isTCS": false,
     "tih": false,
     "rgs": [
-      12
+      12,
+      16
     ]
   },
   {
@@ -33442,7 +33499,8 @@ const db = [
     "isTCS": false,
     "tih": false,
     "rgs": [
-      12
+      12,
+      16
     ]
   },
   {
@@ -33467,7 +33525,8 @@ const db = [
     "isTCS": false,
     "tih": false,
     "rgs": [
-      12
+      12,
+      16
     ]
   },
   {
@@ -33492,7 +33551,8 @@ const db = [
     "isTCS": false,
     "tih": false,
     "rgs": [
-      12
+      12,
+      16
     ]
   },
   {
@@ -33517,7 +33577,8 @@ const db = [
     "isTCS": false,
     "tih": false,
     "rgs": [
-      12
+      12,
+      16
     ]
   },
   {
@@ -33644,7 +33705,7 @@ const db = [
     "isTCS": false,
     "tih": false,
     "rgs": [
-      13
+      17
     ]
   },
   {
@@ -33669,7 +33730,7 @@ const db = [
     "isTCS": false,
     "tih": false,
     "rgs": [
-      13
+      17
     ]
   },
   {
@@ -33895,7 +33956,8 @@ const db = [
     "isTCS": false,
     "tih": true,
     "rgs": [
-      12
+      12,
+      16
     ]
   },
   {
@@ -33920,7 +33982,8 @@ const db = [
     "isTCS": false,
     "tih": true,
     "rgs": [
-      12
+      12,
+      16
     ]
   },
   {
@@ -33972,7 +34035,8 @@ const db = [
     "tih": true,
     "rgs": [
       9,
-      12
+      12,
+      16
     ]
   },
   {
@@ -34051,7 +34115,8 @@ const db = [
     "tih": true,
     "rgs": [
       9,
-      12
+      12,
+      16
     ]
   },
   {
@@ -34486,8 +34551,7 @@ const db = [
     "isTCS": false,
     "tih": false,
     "rgs": [
-      4,
-      13
+      4
     ]
   },
   {
@@ -34512,8 +34576,7 @@ const db = [
     "isTCS": false,
     "tih": false,
     "rgs": [
-      4,
-      13
+      4
     ]
   },
   {
@@ -34537,10 +34600,7 @@ const db = [
     "ppe": "A級氣密衣",
     "isTCS": false,
     "tih": false,
-    "rgs": [
-      1,
-      13
-    ]
+    "rgs": [3, 13]
   },
   {
     "un": "3212",
@@ -35245,7 +35305,8 @@ const db = [
     "reaction": "$2\\mathrm{Fe(CO)_5} + 13\\mathrm{O_2} \\xrightarrow{\\Delta} \\mathrm{Fe_2O_3} + 10\\mathrm{CO_2} \\uparrow$",
     "tih": true,
     "rgs": [
-      12
+      12,
+      16
     ]
   },
   {
@@ -36148,7 +36209,8 @@ const db = [
     "rgs": [
       5,
       9,
-      12
+      12,
+      16
     ]
   },
   {
@@ -37275,7 +37337,7 @@ const db = [
     "isTCS": false,
     "tih": false,
     "rgs": [
-      13
+      17
     ]
   },
   {
@@ -37300,7 +37362,7 @@ const db = [
     "isTCS": false,
     "tih": false,
     "rgs": [
-      13
+      17
     ]
   },
   {
@@ -39102,7 +39164,8 @@ const db = [
     "tih": false,
     "rgs": [
       11,
-      12
+      12,
+      16
     ]
   },
   {
@@ -39155,7 +39218,8 @@ const db = [
     "rgs": [
       6,
       11,
-      12
+      12,
+      16
     ]
   },
   {
@@ -39181,7 +39245,8 @@ const db = [
     "reaction": "$\\text{Thermal Runaway} \\xrightarrow{\\Delta} \\mathrm{HF} \\uparrow + \\mathrm{POF_3} \\uparrow + \\mathrm{H_2} \\uparrow + \\mathrm{Heat}$",
     "tih": false,
     "rgs": [
-      12
+      12,
+      16
     ]
   },
   {
@@ -39309,7 +39374,8 @@ const db = [
     "rgs": [
       11,
       12,
-      15
+      15,
+      16
     ]
   },
   {
@@ -39535,7 +39601,8 @@ const db = [
     "reaction": "$\\text{Thermal Runaway} \\xrightarrow{\\Delta} \\mathrm{HF} \\uparrow + \\mathrm{POF_3} \\uparrow + \\mathrm{H_2} \\uparrow + \\mathrm{Heat}$",
     "tih": false,
     "rgs": [
-      12
+      12,
+      16
     ]
   },
   {
@@ -39611,7 +39678,8 @@ const db = [
     "reaction": "$\\text{Thermal Runaway} \\xrightarrow{\\Delta} \\mathrm{HF} \\uparrow + \\mathrm{POF_3} \\uparrow + \\mathrm{H_2} \\uparrow + \\mathrm{Heat}$",
     "tih": false,
     "rgs": [
-      12
+      12,
+      16
     ]
   },
   {
@@ -39713,7 +39781,8 @@ const db = [
     "tih": false,
     "rgs": [
       11,
-      12
+      12,
+      16
     ]
   },
   {
@@ -40090,7 +40159,8 @@ const db = [
     "tih": false,
     "rgs": [
       11,
-      12
+      12,
+      16
     ]
   },
   {
@@ -40493,7 +40563,8 @@ const db = [
     "tih": false,
     "rgs": [
       11,
-      12
+      12,
+      16
     ]
   },
   {
@@ -42124,7 +42195,7 @@ const db = [
     "isTCS": false,
     "tih": false,
     "rgs": [
-      13
+      17
     ]
   },
   {
@@ -42149,7 +42220,7 @@ const db = [
     "isTCS": false,
     "tih": false,
     "rgs": [
-      13
+      17
     ]
   },
   {
@@ -42375,7 +42446,8 @@ const db = [
     "reaction": "$\\mathrm{MH_x} + x\\mathrm{H_2O} \\rightarrow \\mathrm{M(OH)_x} + x\\mathrm{H_2} \\uparrow$",
     "tih": false,
     "rgs": [
-      12
+      12,
+      16
     ]
   },
   {
@@ -43689,7 +43761,8 @@ const db = [
     "rgs": [
       5,
       6,
-      12
+      12,
+      16
     ]
   },
   {
@@ -43921,7 +43994,8 @@ const db = [
     "tih": false,
     "rgs": [
       5,
-      12
+      12,
+      16
     ]
   },
   {
@@ -44464,7 +44538,8 @@ const db = [
     "rgs": [
       2,
       8,
-      12
+      12,
+      16
     ]
   },
   {
@@ -44642,7 +44717,8 @@ const db = [
     "tih": false,
     "rgs": [
       5,
-      12
+      12,
+      16
     ]
   },
   {
@@ -44874,7 +44950,8 @@ const db = [
     "tih": false,
     "rgs": [
       5,
-      12
+      12,
+      16
     ]
   },
   {
@@ -45954,7 +46031,7 @@ const db = [
     "isTCS": false,
     "tih": false,
     "rgs": [
-      13
+      17
     ]
   },
   {
@@ -45979,7 +46056,7 @@ const db = [
     "isTCS": false,
     "tih": false,
     "rgs": [
-      13
+      17
     ]
   },
   {
@@ -46004,7 +46081,7 @@ const db = [
     "isTCS": false,
     "tih": false,
     "rgs": [
-      13
+      17
     ]
   },
   {
@@ -46029,7 +46106,7 @@ const db = [
     "isTCS": false,
     "tih": false,
     "rgs": [
-      13
+      17
     ]
   },
   {
@@ -47896,8 +47973,7 @@ const db = [
     "isTCS": false,
     "tih": false,
     "rgs": [
-      12,
-      13
+      12
     ]
   },
   {
@@ -47922,8 +47998,7 @@ const db = [
     "isTCS": false,
     "tih": false,
     "rgs": [
-      12,
-      13
+      12
     ]
   },
   {
@@ -47948,8 +48023,7 @@ const db = [
     "isTCS": false,
     "tih": false,
     "rgs": [
-      12,
-      13
+      12
     ]
   },
   {
@@ -47974,8 +48048,7 @@ const db = [
     "isTCS": false,
     "tih": false,
     "rgs": [
-      12,
-      13
+      12
     ]
   },
   {
@@ -48252,7 +48325,8 @@ const db = [
     "tih": false,
     "rgs": [
       5,
-      12
+      12,
+      16
     ]
   },
   {
@@ -48303,7 +48377,8 @@ const db = [
     "tih": false,
     "rgs": [
       5,
-      12
+      12,
+      16
     ]
   },
   {
@@ -48482,7 +48557,8 @@ const db = [
     "tih": false,
     "rgs": [
       5,
-      12
+      12,
+      16
     ]
   },
   {
@@ -48764,7 +48840,7 @@ const db = [
   },
   {
     "un": "3105",
-    "nameTW": "有機過氧化物 D型 (MEKP / 過氧化甲乙酮)",
+    "nameTW": "有機過氧化物D型",
     "nameEN": "Organic peroxide type D, liquid",
     "cas": "N/A",
     "class": "5.2",
@@ -49014,7 +49090,7 @@ const db = [
   },
   {
     "un": "3110",
-    "nameTW": "F 型有機過氧化物，固體 (DCP / 過氧化二異丙苯 / Organic peroxide type F, solid)",
+    "nameTW": "F 型有機過氧化物，固體 (Organic peroxide type F, solid)",
     "nameEN": "Organic peroxide type F, solid",
     "cas": "N/A",
     "class": "N/A",
@@ -49636,7 +49712,8 @@ const db = [
     "tih": false,
     "rgs": [
       11,
-      12
+      12,
+      16
     ]
   },
   {
@@ -49688,7 +49765,8 @@ const db = [
     "tih": false,
     "rgs": [
       11,
-      12
+      12,
+      16
     ]
   },
   {
@@ -49714,7 +49792,8 @@ const db = [
     "reaction": "$\\mathrm{R_xM} + x\\mathrm{H_2O} \\rightarrow \\mathrm{M(OH)_x} + x\\mathrm{RH} \\uparrow$",
     "tih": false,
     "rgs": [
-      12
+      12,
+      16
     ]
   },
   {
@@ -51191,7 +51270,8 @@ const db = [
     "isTCS": false,
     "tih": false,
     "rgs": [
-      12
+      12,
+      16
     ]
   },
   {
@@ -51241,7 +51321,8 @@ const db = [
     "isTCS": false,
     "tih": false,
     "rgs": [
-      12
+      12,
+      16
     ]
   },
   {
@@ -51291,7 +51372,8 @@ const db = [
     "isTCS": false,
     "tih": false,
     "rgs": [
-      12
+      12,
+      16
     ]
   },
   {
@@ -51341,7 +51423,8 @@ const db = [
     "isTCS": false,
     "tih": false,
     "rgs": [
-      12
+      12,
+      16
     ]
   },
   {
@@ -51494,7 +51577,8 @@ const db = [
     "tih": true,
     "rgs": [
       10,
-      12
+      12,
+      16
     ]
   },
   {
@@ -53200,7 +53284,8 @@ const db = [
     "tih": false,
     "rgs": [
       5,
-      12
+      12,
+      16
     ]
   },
   {
@@ -53255,7 +53340,8 @@ const db = [
       2,
       5,
       8,
-      12
+      12,
+      16
     ]
   },
   {
@@ -53335,7 +53421,8 @@ const db = [
     "rgs": [
       8,
       9,
-      12
+      12,
+      16
     ]
   },
   {
@@ -53489,7 +53576,8 @@ const db = [
     "tih": false,
     "rgs": [
       5,
-      12
+      12,
+      16
     ]
   },
   {
@@ -53515,7 +53603,8 @@ const db = [
     "tih": false,
     "rgs": [
       5,
-      12
+      12,
+      16
     ]
   },
   {
@@ -53541,7 +53630,8 @@ const db = [
     "tih": false,
     "rgs": [
       5,
-      12
+      12,
+      16
     ]
   },
   {
@@ -53617,7 +53707,8 @@ const db = [
     "reaction": "$\\mathrm{COCl_2} + \\mathrm{H_2O} \\rightarrow \\mathrm{CO_2} \\uparrow + 2\\mathrm{HCl} \\uparrow$",
     "tih": true,
     "rgs": [
-      12
+      12,
+      16
     ]
   },
   {
@@ -53668,7 +53759,8 @@ const db = [
     "reaction": "$2\\mathrm{PH_3} + 4\\mathrm{O_2} \\xrightarrow{\\Delta} \\mathrm{P_2O_5} \\uparrow+ 3\\mathrm{H_2O}$",
     "tih": true,
     "rgs": [
-      12
+      12,
+      16
     ]
   },
   {
@@ -54405,7 +54497,8 @@ const db = [
     "tih": false,
     "rgs": [
       2,
-      12
+      12,
+      16
     ]
   },
   {
@@ -55942,7 +56035,8 @@ const db = [
     "tih": false,
     "rgs": [
       11,
-      12
+      12,
+      16
     ]
   },
   {
@@ -55969,7 +56063,8 @@ const db = [
     "tih": false,
     "rgs": [
       11,
-      12
+      12,
+      16
     ]
   },
   {
@@ -56248,7 +56343,6 @@ const db = [
     "tih": false,
     "rgs": [
       12,
-      13,
       15
     ]
   },
@@ -56426,7 +56520,7 @@ const db = [
     "isTCS": false,
     "tih": false,
     "rgs": [
-      13
+      17
     ]
   },
   {
@@ -56451,7 +56545,7 @@ const db = [
     "isTCS": false,
     "tih": false,
     "rgs": [
-      13
+      17
     ]
   },
   {
@@ -56477,7 +56571,6 @@ const db = [
     "tih": false,
     "rgs": [
       12,
-      13,
       15
     ]
   },
@@ -56504,7 +56597,6 @@ const db = [
     "tih": false,
     "rgs": [
       12,
-      13,
       15
     ]
   },
@@ -56933,7 +57025,8 @@ const db = [
     "tih": false,
     "rgs": [
       10,
-      11
+      11,
+      16
     ]
   },
   {
@@ -56984,7 +57077,8 @@ const db = [
     "tih": false,
     "rgs": [
       10,
-      11
+      11,
+      16
     ]
   },
   {
@@ -57010,7 +57104,8 @@ const db = [
     "tih": false,
     "rgs": [
       10,
-      11
+      11,
+      16
     ]
   },
   {
@@ -57061,7 +57156,8 @@ const db = [
     "tih": false,
     "rgs": [
       10,
-      11
+      11,
+      16
     ]
   },
   {
@@ -57983,7 +58079,8 @@ const db = [
     "tih": false,
     "rgs": [
       5,
-      12
+      12,
+      16
     ]
   },
   {
@@ -58434,7 +58531,8 @@ const db = [
     "isTCS": false,
     "tih": false,
     "rgs": [
-      12
+      12,
+      16
     ]
   },
   {
@@ -61498,7 +61596,8 @@ const db = [
     "reaction": "$\\mathrm{AIBN} \\xrightarrow{\\Delta} 2\\mathrm{(CH_3)_2(CN)C^\\bullet} + \\mathrm{N_2} \\uparrow$",
     "tih": false,
     "rgs": [
-      12
+      12,
+      16
     ]
   },
   {
@@ -62125,7 +62224,8 @@ const db = [
     "reaction": "$\\mathrm{SiF_4} + 2\\mathrm{H_2O} \\rightarrow \\mathrm{SiO_2} + 4\\mathrm{HF} \\uparrow$",
     "tih": true,
     "rgs": [
-      12
+      12,
+      16
     ]
   },
   {
@@ -62176,7 +62276,8 @@ const db = [
     "reaction": "$\\mathrm{SiF_4} + 2\\mathrm{H_2O} \\rightarrow \\mathrm{SiO_2} + 4\\mathrm{HF} \\uparrow$",
     "tih": true,
     "rgs": [
-      12
+      12,
+      16
     ]
   },
   {
@@ -62378,7 +62479,8 @@ const db = [
     "tih": false,
     "rgs": [
       11,
-      12
+      12,
+      16
     ]
   },
   {
@@ -62653,7 +62755,7 @@ const db = [
     "isTCS": false,
     "tih": false,
     "rgs": [
-      13
+      17
     ]
   },
   {
@@ -62678,7 +62780,7 @@ const db = [
     "isTCS": false,
     "tih": false,
     "rgs": [
-      13
+      17
     ]
   },
   {
@@ -63140,7 +63242,8 @@ const db = [
     "rgs": [
       11,
       12,
-      15
+      15,
+      16
     ]
   },
   {
@@ -63400,7 +63503,8 @@ const db = [
       10,
       11,
       12,
-      15
+      15,
+      16
     ]
   },
   {
@@ -63503,7 +63607,8 @@ const db = [
     "rgs": [
       11,
       12,
-      15
+      15,
+      16
     ]
   },
   {
@@ -63608,7 +63713,8 @@ const db = [
     "rgs": [
       6,
       11,
-      12
+      12,
+      16
     ]
   },
   {
@@ -63986,7 +64092,8 @@ const db = [
     "tih": true,
     "rgs": [
       11,
-      12
+      12,
+      16
     ]
   },
   {
@@ -64687,7 +64794,8 @@ const db = [
     "reaction": "$n \\mathrm{C_8H_8} \\xrightarrow{\\Delta} \\text{Polystyrene (Polymer)} + \\mathrm{Heat}$",
     "tih": false,
     "rgs": [
-      12
+      12,
+      16
     ]
   },
   {
@@ -65012,7 +65120,8 @@ const db = [
     "isTCS": false,
     "tih": true,
     "rgs": [
-      12
+      12,
+      16
     ]
   },
   {
@@ -65063,8 +65172,7 @@ const db = [
     "tih": false,
     "rgs": [
       1,
-      12,
-      13
+      12
     ]
   },
   {
@@ -65091,8 +65199,7 @@ const db = [
     "tih": true,
     "rgs": [
       1,
-      12,
-      13
+      12
     ]
   },
   {
@@ -65118,8 +65225,7 @@ const db = [
     "tih": false,
     "rgs": [
       1,
-      12,
-      13
+      12
     ]
   },
   {
@@ -65145,8 +65251,7 @@ const db = [
     "tih": false,
     "rgs": [
       1,
-      12,
-      13
+      12
     ]
   },
   {
@@ -65171,8 +65276,7 @@ const db = [
     "isTCS": false,
     "tih": false,
     "rgs": [
-      1,
-      13
+      1
     ]
   },
   {
@@ -65197,7 +65301,7 @@ const db = [
     "isTCS": false,
     "tih": false,
     "rgs": [
-      13
+      17
     ]
   },
   {
@@ -65222,7 +65326,7 @@ const db = [
     "isTCS": false,
     "tih": false,
     "rgs": [
-      13
+      17
     ]
   },
   {
@@ -65248,7 +65352,8 @@ const db = [
     "reaction": "$\\mathrm{SF_4} + 2\\mathrm{H_2O} \\rightarrow \\mathrm{SO_2} \\uparrow + 4\\mathrm{HF} \\uparrow$",
     "tih": true,
     "rgs": [
-      12
+      12,
+      16
     ]
   },
   {
@@ -65449,7 +65554,8 @@ const db = [
     "isTCS": false,
     "tih": true,
     "rgs": [
-      12
+      12,
+      16
     ]
   },
   {
@@ -65500,8 +65606,7 @@ const db = [
     "tih": false,
     "rgs": [
       1,
-      12,
-      13
+      12
     ]
   },
   {
@@ -65528,8 +65633,7 @@ const db = [
     "tih": true,
     "rgs": [
       1,
-      12,
-      13
+      12
     ]
   },
   {
@@ -65555,8 +65659,7 @@ const db = [
     "tih": false,
     "rgs": [
       1,
-      12,
-      13
+      12
     ]
   },
   {
@@ -65582,8 +65685,7 @@ const db = [
     "tih": false,
     "rgs": [
       1,
-      12,
-      13
+      12
     ]
   },
   {
@@ -65608,8 +65710,7 @@ const db = [
     "isTCS": false,
     "tih": false,
     "rgs": [
-      1,
-      13
+      1
     ]
   },
   {
@@ -65634,7 +65735,7 @@ const db = [
     "isTCS": false,
     "tih": false,
     "rgs": [
-      13
+      17
     ]
   },
   {
@@ -65659,7 +65760,7 @@ const db = [
     "isTCS": false,
     "tih": false,
     "rgs": [
-      13
+      17
     ]
   },
   {
@@ -65685,7 +65786,8 @@ const db = [
     "reaction": "$\\mathrm{SF_4} + 2\\mathrm{H_2O} \\rightarrow \\mathrm{SO_2} \\uparrow + 4\\mathrm{HF} \\uparrow$",
     "tih": true,
     "rgs": [
-      12
+      12,
+      16
     ]
   },
   {
@@ -66165,7 +66267,8 @@ const db = [
     "isTCS": false,
     "tih": false,
     "rgs": [
-      12
+      12,
+      16
     ]
   },
   {
@@ -66319,7 +66422,8 @@ const db = [
     "tih": false,
     "rgs": [
       7,
-      12
+      12,
+      16
     ]
   },
   {
@@ -66395,7 +66499,8 @@ const db = [
     "tih": false,
     "rgs": [
       2,
-      12
+      12,
+      16
     ]
   },
   {
@@ -67609,7 +67714,8 @@ const db = [
     "rgs": [
       8,
       9,
-      12
+      12,
+      16
     ]
   },
   {
@@ -68592,7 +68698,8 @@ const db = [
     "tih": false,
     "rgs": [
       4,
-      12
+      12,
+      16
     ]
   },
   {
@@ -68618,7 +68725,8 @@ const db = [
     "tih": false,
     "rgs": [
       8,
-      12
+      12,
+      16
     ]
   },
   {
@@ -69103,7 +69211,8 @@ const db = [
     "tih": true,
     "rgs": [
       5,
-      12
+      12,
+      16
     ]
   },
   {
@@ -69516,7 +69625,8 @@ const db = [
     "isTCS": true,
     "tih": false,
     "rgs": [
-      12
+      12,
+      16
     ]
   },
   {
@@ -69669,7 +69779,8 @@ const db = [
     "tih": false,
     "rgs": [
       5,
-      12
+      12,
+      16
     ]
   },
   {
@@ -70102,7 +70213,8 @@ const db = [
     "reaction": "$\\mathrm{WF_6} + 4\\mathrm{H_2O} \\rightarrow \\mathrm{H_2WO_4} + 6\\mathrm{HF} \\uparrow$",
     "tih": true,
     "rgs": [
-      12
+      12,
+      16
     ]
   },
   {
@@ -70527,7 +70639,7 @@ const db = [
     "isTCS": false,
     "tih": false,
     "rgs": [
-      13
+      17
     ]
   },
   {
@@ -70552,7 +70664,7 @@ const db = [
     "isTCS": false,
     "tih": false,
     "rgs": [
-      13
+      17
     ]
   },
   {
@@ -70680,7 +70792,8 @@ const db = [
     "rgs": [
       2,
       8,
-      12
+      12,
+      16
     ]
   },
   {
@@ -70760,7 +70873,8 @@ const db = [
     "tih": false,
     "rgs": [
       5,
-      12
+      12,
+      16
     ]
   },
   {
@@ -70788,7 +70902,8 @@ const db = [
       2,
       5,
       8,
-      12
+      12,
+      16
     ]
   },
   {
@@ -70994,7 +71109,8 @@ const db = [
     "tih": false,
     "rgs": [
       5,
-      12
+      12,
+      16
     ]
   },
   {
@@ -71020,7 +71136,8 @@ const db = [
     "tih": false,
     "rgs": [
       5,
-      12
+      12,
+      16
     ]
   },
   {
@@ -71195,7 +71312,8 @@ const db = [
     "isTCS": false,
     "tih": false,
     "rgs": [
-      12
+      12,
+      16
     ]
   },
   {
@@ -72054,7 +72172,6 @@ const db = [
     "tih": false,
     "rgs": [
       12,
-      13,
       15
     ]
   },
@@ -72156,7 +72273,6 @@ const db = [
     "tih": false,
     "rgs": [
       12,
-      13,
       15
     ]
   },
@@ -72183,7 +72299,6 @@ const db = [
     "tih": false,
     "rgs": [
       12,
-      13,
       15
     ]
   },
@@ -72685,6 +72800,84 @@ const db = [
     "tih": false,
     "rgs": [
       12
+    ]
+  }
+,
+  {
+    "un": "0209",
+    "nameTW": "三硝基甲苯 (TNT / 炸藥)",
+    "nameEN": "Trinitrotoluene (TNT)",
+    "cas": "118-96-7",
+    "class": "1.1D",
+    "nfpa": {
+      "h": "2",
+      "f": "4",
+      "r": "4",
+      "s": ""
+    },
+    "ghs": [
+      "💥,☠️,👤,🐟"
+    ],
+    "erg": "113",
+    "isolation": "800m",
+    "tactics": "爆炸物。極易因受熱、摩擦或震動引發爆炸。嚴禁滅火，立即疏散周圍人員。",
+    "ppe": "防爆保護裝備",
+    "isTCS": false,
+    "tih": false,
+    "rgs": [
+      16
+    ]
+  },
+  {
+    "un": "2489",
+    "nameTW": "二苯基甲烷二異氰酸酯 (MDI / 聚氨酯原料)",
+    "nameEN": "Diphenylmethane-4,4'-diisocyanate (MDI)",
+    "cas": "101-68-8",
+    "class": "6.1",
+    "nfpa": {
+      "h": "3",
+      "f": "1",
+      "r": "1",
+      "s": ""
+    },
+    "ghs": [
+      "☠️,👤,⚠️"
+    ],
+    "erg": "156",
+    "isolation": "50m",
+    "tactics": "具毒性與刺激性，吸入可能導致氣喘與過敏反應。使用乾粉、二氧化碳或水霧滅火。",
+    "ppe": "全套化學防護衣與SCBA",
+    "isTCS": true,
+    "tih": false,
+    "rgs": [
+      12,
+      17
+    ]
+  },
+  {
+    "un": "2189",
+    "nameTW": "二氟化二氯矽烷 (Dichlorodifluorosilane)",
+    "nameEN": "Dichlorodifluorosilane",
+    "cas": "75-81-0",
+    "class": "2.3",
+    "nfpa": {
+      "h": "3",
+      "f": "0",
+      "r": "1",
+      "s": ""
+    },
+    "ghs": [
+      "💨,🧪,☠️"
+    ],
+    "erg": "119",
+    "isolation": "100m",
+    "tactics": "毒性及腐蝕性加壓氣體，遇水可能釋放酸性煙霧。使用水霧擊落氣體，嚴禁對洩漏源射水。",
+    "ppe": "A級氣密防護衣與SCBA",
+    "isTCS": false,
+    "tih": true,
+    "rgs": [
+      12,
+      17
     ]
   }
 ];
